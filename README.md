@@ -1,7 +1,75 @@
-Electric_Production_forcasting
-==============================
+# Electricity Usage and Demand Forecasting
 
-I'll update
+## Overview
+
+This repository contains code and resources for a time series forecasting project focused on predicting electricity usage and demand. The goal of this project is to develop accurate models that can forecast future electricity consumption patterns, helping utilities and energy providers better manage their resources and plan for future demand.
+
+## Features
+
+- Implements various time series forecasting algorithms.
+- Supports both univariate and multivariate forecasting approaches.
+- Provides pre-processing utilities for cleaning and transforming electricity usage data.
+- Easily customizable for different geographical regions and electricity consumption patterns.
+
+## Requirements
+
+- Python 3.x
+- Additional dependencies listed in `requirements.txt`.
+
+## Installation
+
+1. Clone this repository:
+
+    ```bash
+    git clone https://github.com/your-username/electricity-forecasting.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd electricity-forecasting
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+### Quick Start
+
+1. Prepare your electricity usage data in a suitable format (e.g., CSV, Excel).
+2. Run the appropriate forecasting script:
+
+    ```bash
+    python forecast.py --input_file usage_data.csv
+    ```
+
+### Customization
+
+- For advanced usage and customization, refer to the documentation in `docs/`.
+
+## Examples
+
+- Check out the `examples/` directory for sample electricity usage datasets and expected output.
+
+## Contributing
+
+Contributions are welcome! Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more details.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- This project draws inspiration from various research papers and existing time series forecasting frameworks.
+
+## Contact
+
+For any questions or inquiries, please contact [Harshalhonde50@gmail.com].
 
 Project Organization
 ------------
