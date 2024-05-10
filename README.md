@@ -16,56 +16,9 @@ This repository contains code and resources for a time series forecasting projec
 - Python 3.x
 - Additional dependencies listed in `requirements.txt`.
 
-## Installation
+## Notebook
 
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/your-username/electricity-forecasting.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd electricity-forecasting
-    ```
-
-3. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-### Quick Start
-
-1. Prepare your electricity usage data in a suitable format (e.g., CSV, Excel).
-2. Run the appropriate forecasting script:
-
-    ```bash
-    python forecast.py --input_file usage_data.csv
-    ```
-
-### Customization
-
-- For advanced usage and customization, refer to the documentation in `docs/`.
-
-## Examples
-
-- Check out the `examples/` directory for sample electricity usage datasets and expected output.
-
-## Contributing
-
-Contributions are welcome! Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- This project draws inspiration from various research papers and existing time series forecasting frameworks.
+- Link to Notebook : [https://github.com/Harry262000/Time_series_forcasting/tree/main/notebooks]
 
 ## Contact
 
